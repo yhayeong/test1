@@ -1,0 +1,5 @@
+package exception2;
+
+public class BankError {
+	
+}
