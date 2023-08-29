@@ -1,6 +1,10 @@
 package exception2;
 
 public class BankException extends Exception {
+	//github에서 수정
+	
+	
+
 	//필드
 	BankError errCode;
 	
